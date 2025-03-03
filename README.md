@@ -1,1 +1,1 @@
-file:///C:/Users/Renat/Downloads/html5/index.html
+[Visualizza la pagina HTML](https://raw.githubusercontent.com/stefanodigennaro/stefanodigennaro.github.io/refs/heads/main/mioprofilo.html)
